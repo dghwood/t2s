@@ -13,8 +13,6 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/dghwood/goaudio v0.0.0-20230105013744-6b154a90b662 h1:MImC6tsQISw3oaLjE6BvEU8njS+ao8Q/EMktAiH6pMs=
-github.com/dghwood/goaudio v0.0.0-20230105013744-6b154a90b662/go.mod h1:Unhxkpswm3W3XnNe2Kcv+svTk/ecn3gR2rJSWROuNXw=
 github.com/dghwood/goaudio v0.0.0-20230105015110-e731304a1386 h1:zFcgCuvwwArSxvk7CiPNswApuxRYTZJbkoO9TP+zKBI=
 github.com/dghwood/goaudio v0.0.0-20230105015110-e731304a1386/go.mod h1:Unhxkpswm3W3XnNe2Kcv+svTk/ecn3gR2rJSWROuNXw=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=

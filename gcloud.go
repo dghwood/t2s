@@ -91,7 +91,7 @@ func GCloudT2S(req Text2SpeechRequest) (resp Text2SpeechResponse, err error) {
 	// TODO: Do this concurrently?
 	for i := 0; i < len(texts); i++ {
 		t2sreq := req
-		req.Text = texts[i]
+		t2sreq.Text = texts[i]
 		req := buildWAVRequest(t2sreq)
 		r, err := client.SynthesizeSpeech(ctx, &req)
 		if err != nil {
